@@ -1,0 +1,12 @@
+### config service ###
+Host = "127.0.0.1"
+Port = 8080
+
+#mysql
+MysqlServer   = "localhost:3306"
+MysqlUser     = "root"
+MysqlPassword = "1"
+MysqlDatabase = "test"
+
+#token
+TokenKey = "aaaaaa"
